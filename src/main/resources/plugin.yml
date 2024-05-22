@@ -1,0 +1,4 @@
+name: TapTycoon
+version: '${project.version}'
+main: org.rammex.taptycoon.TapTycoon
+api-version: '1.20'
